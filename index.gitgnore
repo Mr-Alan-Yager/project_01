@@ -1,0 +1,4 @@
+#提交文件到仓库时，忽略 index.js 文件
+script.js
+#提交文件到仓库时，忽略 text 文件
+text/
